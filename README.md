@@ -26,9 +26,11 @@ A real-time chat application built with Node.js, Express, and Socket.IO. This ap
    cd chat_application_websocket
 
 2. Install dependencies:
+   ```bash
    npm install
 3. Start the application:
-    <!-- npm start -->
+   ```bash
+    npm start
     <!-- or npm start dev  -->
 
 ### Accessing the Application
